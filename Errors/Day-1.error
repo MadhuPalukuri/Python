@@ -1,0 +1,10 @@
+name = "John"
+age = 30
+
+print ("Name:", name)
+print("Age:"  age)
+
+  File "<ipython-input-58-14e4cb6adf29>", line 5
+    print("Age:"  age)
+          ^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
